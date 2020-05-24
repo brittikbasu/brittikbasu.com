@@ -1,4 +1,4 @@
-# notes.aravindballa.com
+# brittikbasu.com
 
 Uses https://github.com/aravindballa/gatsby-theme-andy/
 

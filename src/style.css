@@ -14,8 +14,14 @@ h2 {
 h3 {
   @apply font-bold;
 }
+h4{
+  @apply font-semibold;
+  color: #98AFBA;
+
+}
 a {
-  @apply text-blue-600 underline;
+  @apply underline;
+  color: #00A7FA;
 }
 a:hover {
   @apply text-blue-700 no-underline;
@@ -78,7 +84,12 @@ pre > code {
 @tailwind utilities;
 
 .highlight {
-  @apply bg-yellow-200 px-1 -mx-1 rounded;
+  @apply px-1 mx-1 rounded;
+  background-color: #FCFCD4;
+}
+
+::selection {
+  background-color: #FCFCD4;
 }
 
 .handwritten-notes-img {

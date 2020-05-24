@@ -21,7 +21,7 @@ const StackedPageWrapper = ({
 }) => (
   <PageIndexProvider value={i}>
     <div
-      className={`note-container md:max-w-xl px-4 overflow-y-auto bg-white md:sticky flex flex-col flex-shrink-0 ${
+      className={`note-container md:max-w-xl px-8 pt-4 overflow-y-auto bg-white md:sticky flex flex-col flex-shrink-0 ${
         overlay ? 'shadow-lg' : ''
       }`}
       style={{ left: 40 * i, right: -585, width: NOTE_WIDTH }}
@@ -76,14 +76,16 @@ const BrainNotesContainer = ({ slug, note, location, siteMetadata }) => {
       <header>
         <div className="font-bold py-2 border-b px-4">
           <Link to="/" className="no-underline text-gray-900">
-            {siteMetadata.title}
+            {siteMetadata.title} 
           </Link>
+          <a href="mailto:brittik@filledwith.love">Email</a> <a>Twitter</a> <a>Linkedin</a> 
         </div>
       </header>
 
       <div
-        className="flex-1 flex flex-grow overflow-x-hidden md:overflow-x-auto overflow-y-hidden"
+        className="flex-1 bg-gray-500 flex flex-grow overflow-x-hidden md:overflow-x-auto overflow-y-hidden"
         ref={scrollContainer}
+        style={{ backgroundImage: `url(${'https://brittikbasu.imfast.io/img/brittik_bg.jpeg'})` }}
       >
         <div
           className="note-columns-container flex flex-grow transition-width duration-100"

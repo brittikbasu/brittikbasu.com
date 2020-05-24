@@ -8,7 +8,7 @@ export default () => (
     <p className="text-sm m-0">
       Anyways, send me a{' '}
       <a href="https://twitter.com/messages/compose?recipient_id=532906019">direct message</a> on
-      Twitter or an <a href="mailto:bsaaravind@gmail.com">email</a> and we can talk.
+      Twitter or an <a href="mailto:brittik@filledwith.love">email</a> and we can talk.
     </p>
   </div>
 );

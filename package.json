@@ -1,5 +1,5 @@
 {
-  "name": "@aravindballa/notes",
+  "name": "brittikbasu.com",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "clean": "gatsby clean"
   },
   "keywords": [],
-  "author": "Aravind Balla <bsaaravind@gmail.com> (https://aravindballa.com)",
+  "author": "Brittik Basu <brittik@filledwith.love> (https://brittikbasu.com)",
   "license": "MIT",
   "dependencies": {
     "@tippyjs/react": "^4.0.2",

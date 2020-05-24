@@ -1,19 +1,43 @@
 ---
-title: About these notes
+title: About Me
 ---
 
-Hi, I'm [Aravind Balla](https://aravindballa.com) 👋
+<img src="https://learningcurve.dev/static/brittik-avatar-0566ae52c3db9b6bfcd9b56e7cb9afbc.jpg" class="h-20 rounded-full mt-6" />
+<br />
 
-These are the scattered and unfinished version of my thoughts that run in my head.🏃 Have a sneak peak into my brain. These notes don't have an index of all the things I write, so keep clicking through the things you find interesting. And if a note resembles with you, please let me know. If you strongly. disagree in a note, they you should tell me for sure. Send me a [direct message](https://twitter.com/messages/compose?recipient_id=532906019) on [Twitter](https://twitter.com/aravindballa) and we can talk.
+# Hi, I'm Brittik Basu 👋
 
-I'm getting into the habit of [[Writing]] again, and as a result, I have a few notes lying around in [Roam](https://roamresearch.com/) and [Notion](https://www.notion.so/?r=3102f5265a104fcab0afd4ec98f0c9dc).
+#### Everything I'm learning, shared with love
+<br />
 
-Present areas of focus are
+<br />
 
-- Day job
-- [[Learning Curve]] podcast
-- Creating content
+## About Me  
+<br />
+
+### 💼 Work: Founder of [Filled with Love](https://filledwith.love)
+
+I'm a generalist who can design + code. My clients are impressed with how easily i understand their problems and come up with solutions. I believe UX is a thing because at some point we stopped caring about user's needs. 
+Being able to design + code allows me to seamlessly craft solutions that are practical and feasible, it also enables me to collaborate with other designers and developers.
 
 ---
 
-This idea is inspired from [Max Stoiber](https://notes.mxstbr.com/) and [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes). This project is [opensource](https://github.com/aravindballa/notes.aravindballa.com/), built with [Gatsby](https://gatsbyjs.org) and uses [gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy/). I also wrote about [[how I built this]].
+### 🎸 Music: I write songs from my heart
+
+Music is form of expression. Writing songs has helped me navigate the ups and downs of life.
+I wrote my first song when i was 18, after I experienced heartbreak for the first time. It's beautiful how we can extract love and pain and turn them into portals that allow us to navigate back in time and feel what we had experienced before. It also alleviates pain.
+
+---
+
+### 🎙 Podcast: I host the [Learning Curve Podcast](https://learningcurve.dev)
+
+Since i'm always learning, it's important that I share and discuss what's interesting. With every episode I'm becoming a better speaker and it's making me discoverable to other like minded folks.
+
+
+
+
+
+
+---
+
+This project is [opensource](https://github.com/aravindballa/notes.aravindballa.com/),and uses [gatsby-theme-andy](https://github.com/aravindballa/gatsby-theme-andy/) by [[Aravind]]   
