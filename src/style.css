@@ -2,7 +2,10 @@
 @tailwind base;
 
 body {
-  height: 100vh;
+  background-image: url(https://brittikbasu.imfast.io/img/brittik_bg.jpeg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 h1 {
@@ -16,7 +19,7 @@ h3 {
 }
 h4{
   @apply font-semibold;
-  color: #98AFBA;
+  color: #354A54;
 
 }
 a {
@@ -121,6 +124,15 @@ pre > code {
 
 .note-container {
   max-width: 100vw;
+}
+
+.social-icon {
+@apply h-8 w-8 p-2 rounded-full cursor-pointer;
+background: #98AFBA;
+}
+
+.social-icon:hover{
+  background-color: #00A7FA;
 }
 
 @media (max-width: 768px) {
