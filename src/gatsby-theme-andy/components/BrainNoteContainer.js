@@ -83,7 +83,7 @@ const BrainNotesContainer = ({ slug, note, location, siteMetadata }) => {
       </header>
 
       <div
-        className="flex-1 bg-gray-500 flex flex-grow overflow-x-hidden md:overflow-x-auto overflow-y-hidden"
+        className="flex-1 bg-gray-500 flex flex-grow overflow-x-hidden md:overflow-x-auto overflow-y-hidden bg-no-repeat bg-fixed"
         ref={scrollContainer}
         style={{ backgroundImage: `url(${'https://brittikbasu.imfast.io/img/brittik_bg.jpeg'})` }}
       >
