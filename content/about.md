@@ -2,7 +2,7 @@
 title: About Me
 ---
 
-<img src="https://learningcurve.dev/static/brittik-avatar-0566ae52c3db9b6bfcd9b56e7cb9afbc.jpg" class="h-20 rounded-full mt-6" />
+<img src="https://brittikbasu.imfast.io/img/brittik_avatar.png" class="h-20 rounded-full mt-6" />
 <br />
 
 # Hi, I'm Brittik Basu 👋
