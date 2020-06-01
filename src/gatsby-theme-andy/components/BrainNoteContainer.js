@@ -20,8 +20,13 @@ const StackedPageWrapper = ({
   i,
 }) => (
   <PageIndexProvider value={i}>
+         {slug.match(/tweet/i) ? (
+      <Helmet>
+        <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </Helmet>
+    ) : null}
     <div
-      className={`note-container md:max-w-xl px-8 pt-4 overflow-y-auto bg-white md:sticky flex flex-col flex-shrink-0 ${
+      className={`note-container shadow-lg md:max-w-xl px-12 pt-4 overflow-y-auto bg-white md:sticky flex flex-col flex-shrink-0 ${
         overlay ? 'shadow-lg' : ''
       }`}
       style={{ left: 40 * i, right: -585, width: NOTE_WIDTH }}
