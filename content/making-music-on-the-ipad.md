@@ -15,7 +15,7 @@ A year back, I gave my iPad to my brother because he needed it at that point. An
 
 ## Music Making Process
 
-It starts with me playing some tunes on my ukulele and then writing and recording a bit whenever I find inspiration. I use post-it notes for writing the song. A bad idea is easy to dispose of and good ideas are easy to organize. After that I record in music memos and export to GarageBand. Finally I play around with the arrangement and add some loops in. And that's it. This is how I make music on the iPad.
+It starts with me playing some tunes on my ukulele and then writing and recording a bit whenever I find inspiration. I use post-it notes for writing the song. A bad idea is easy to dispose of and good ideas are easy to organize. After that I record in music memos and export to GarageBand. Finally I play around with the arrangement and add some loops in. And that's it. This is how I make [[music]] on the iPad.
 
 ## Musical Delight
 
