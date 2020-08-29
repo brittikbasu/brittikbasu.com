@@ -2,6 +2,8 @@
 title: About
 
 ---
+    ![brittik basu's avatar](https://brittikbasu.imfast.io/img/brittik_avatar.png)
+
 # Hi, I'm Brittik Basu 👋🏾
 
 #### Everything I learn, shared with love
@@ -17,6 +19,8 @@ _We have this one life and it's never been easier to leave traces of our knowled
 ### Life stories
 
 \[\[Leverage your trusted network\]\]
+
+`[[Leverage your trusted network]]`
 
 ### Music making
 
