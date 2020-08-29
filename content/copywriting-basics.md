@@ -1,5 +1,5 @@
 ---
-title: "✍️Copywriting Basics"
+title: Copywriting Basics
 
 ---
 1\. Understand a topic well
