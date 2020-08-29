@@ -65,5 +65,7 @@ title: About
 [[Problem solving framework for leaders]]
 <br />
 
-### Writing
+### Content creation
 [[Copywriting Basics]]
+
+[[Why We Stopped Editing Our Podcast]]
