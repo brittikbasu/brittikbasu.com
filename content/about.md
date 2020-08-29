@@ -64,3 +64,7 @@ title: About
 ### Business Lessons
 [[Problem solving framework for leaders]]
 <br />
+
+### Marketing Skills
+[[Copywriting Basics]]
+<br />
