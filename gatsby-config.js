@@ -2,5 +2,13 @@ module.exports = {
   siteMetadata: {
     title: `Brittik Basu`,
   },
-  plugins: ['gatsby-theme-andy', `gatsby-plugin-postcss`],
+  plugins: [
+    `gatsby-plugin-postcss`,
+    {
+      resolve: 'gatsby-theme-andy',
+      options: {
+        hideDoubleBrackets: true,
+      },
+    },
+  ],
 };
