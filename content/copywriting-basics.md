@@ -1,5 +1,5 @@
 ---
-title: Copywriting Basics
+title: "✍\U0001F3FE Copywriting Basics"
 
 ---
 1\. Understand a topic well
