@@ -13,7 +13,7 @@ I always write on post-it-notes. They’re easy to stick anywhere, don’t fly a
 
 Keep what rhymes with how you are feeling, discard the rest.
 
-# Made for each other 
+## Made for each other 
 I don't write songs in one go. I start with a verse or chorus and sing it over the chord progression. I then tweak it until the chords and lyrics together sound like they're made for each other.
 
 ## Finish to get back to the present moment
@@ -23,7 +23,6 @@ Once the post it notes are filled with words and the music is written and compos
 Some songs take years to complete. What you feel today is incomplete. You’ll feel something similar in the future which will give you a complete perspective that’s necessary to complete the song.
 
 There have been songs which have evolved. I’ve written and modified them with time and experiences. These are the songs that a songwriter doesn’t want to part with, just like how artists like to hold on to their best paintings. 
-
 
 ## Gift a song, find hope
 I've written songs for people I've loved and for myself. The songs I write for someone stays back with me even after they are no longer in my life. When my heart is breaking and I'm in pain, writing a song gives me hope. 
