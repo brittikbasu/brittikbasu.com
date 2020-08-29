@@ -29,5 +29,3 @@ title: About
 \[\[Problem solving framework for leaders\]\]
 
 ### Marketing Skills
-
-\[\[Copywriting Basics\]\]
