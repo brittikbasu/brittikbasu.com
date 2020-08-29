@@ -12,24 +12,4 @@ _We have this one life and it's never been easier to leave traces of our knowled
 
 ## Areas of my life
 
-💼 \[\[Work\]\]    🎸 \[\[Music\]\]    🎙 \[\[Podcast\]\]
-
-## My thoughts
-
-### Life stories
-
-\[\[Leverage your trusted network\]\]
-
-`[[Leverage your trusted network]]`
-
-### Music making
-
-\[\[Making Music on the iPad\]\]
-
-### Web Development
-
-\[\[How I made this website\]\]
-
-### Business Lessons
-
-\[\[Problem solving framework for leaders\]\]
+💼 \` \[\[Work\]\] \`
