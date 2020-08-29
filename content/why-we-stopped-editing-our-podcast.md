@@ -19,4 +19,4 @@ Knowing that you can’t stop mid-recording, gives you the practice necessary to
 ## Start Simple for lasting Motivation 
 Remember MKBHD‘s early videos from when he was a teen? They were simple. He didn’t have to worry about working with a lot of gear or editing till perfection. This allowed him to stay motivated to keep going. When you keep going, time makes you better.
 
-In the future, we’ll definitely have AI tools that do the editing for us. Until then, keep enjoying the raw/un-edited episodes, of the [Learning Curve Podcast](https://learningcurve.dev), straight from our hearts, recorded live!
+In the future, we’ll definitely have AI tools that do the editing for us. Until then, keep enjoying the raw/un-edited episodes, of the Learning Curve [[Podcast]], straight from our hearts, recorded live!
