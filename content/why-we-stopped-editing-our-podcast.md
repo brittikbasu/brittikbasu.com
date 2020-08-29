@@ -1,3 +1,6 @@
+---
+title: Why we stopped editing our podcast
+---
 Most podcasters are not super famous like Joe Rogan, we’re DIY, and do everything ourselves. Editing was a huge time sucker for us. We would spend about 3 hours to edit a 30 min podcast. It was killing our creativity. We decided to stop and embrace being raw. Here’s our experience. 
 
 ## No editing = more creativity
