@@ -1,7 +1,7 @@
 ---
 title: About
----
 
+---
 <img src="https://brittikbasu.imfast.io/img/brittik_avatar.png" class="h-20 rounded-full mt-6" />
 <br />
 
@@ -10,7 +10,6 @@ title: About
 #### Everything I learn, shared with love
 
 <div class="flex flex-row h-8 w-32 mt-4 justify-between">
-
 
 <div class="social-icon">
 <a href="http://linkedin.com/in/brittikbasu" target="_blank">
@@ -30,41 +29,47 @@ title: About
 </div>
 </a>
 
-
 </div>
 
 <br />
 
 <br />
 
-*We have this one life and it's never been easier to leave traces of our knowledge out here on the internet. I learn so much from what people share. This website is my corner of the internet where my thoughts live.*
+_We have this one life and it's never been easier to leave traces of our knowledge out here on the internet. I learn so much from what people share. This website is my corner of the internet where my thoughts live._
 
 <br />
 
-## Areas of my life  
-💼 [[Work]]    🎸 [[Music]]    🎙 [[Podcast]]
+## Areas of my life
+
+💼 \[\[Work\]\]    🎸 \[\[Music\]\]    🎙 \[\[Podcast\]\]
 <br />
 <br />
 
 ## My thoughts
+
 <br />
 
 ### Life stories
-[[Leverage your trusted network]]
+
+\[\[Leverage your trusted network\]\]
 <br />
 
 ### Music making
-[[Making Music on the iPad]]
+
+\[\[Making Music on the iPad\]\]
 <br />
 
 ### Web Development
-[[How I made this website]]
+
+\[\[How I made this website\]\]
 <br />
 
 ### Business Lessons
-[[Problem solving framework for leaders]]
+
+\[\[Problem solving framework for leaders\]\]
 <br />
 
 ### Marketing Skills
-[[Copywriting Basics]]
+
+\[\[✍🏾 Copywriting Basics\]\]
 <br />
