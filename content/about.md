@@ -30,4 +30,4 @@ title: About
 
 ### Marketing Skills
 
-\[\[✍🏾 Copywriting Basics\]\]
+\[\[Copywriting Basics\]\]
