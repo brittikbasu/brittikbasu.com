@@ -17,7 +17,7 @@ Keep what rhymes with how you are feeling, discard the rest.
 I don't write songs in one go. I start with a verse or chorus and sing it over the chord progression. I then tweak it until the chords and lyrics together sound like they're made for each other.
 
 ## Finish to get back to the present moment
-Once the post it notes are filled with words and the music is written and composed, not only do i have a song, but I've also successfully removed the pain or any other strong feelings from within me. Now the feelings are trapped in a song and I'm free to feel other things and move on.
+Once the post it notes are filled with words and the [[music]] is written and composed, not only do i have a song, but I've also successfully removed the pain or any other strong feelings from within me. Now the feelings are trapped in a song and I'm free to feel other things and move on.
 
 ## Incomplete songs are not for sale 
 Some songs take years to complete. What you feel today is incomplete. You’ll feel something similar in the future which will give you a complete perspective that’s necessary to complete the song.
