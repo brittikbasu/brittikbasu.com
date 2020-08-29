@@ -5,12 +5,3 @@ fields:
 - type: text
   name: title
   label: title
-- name: body
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: body
